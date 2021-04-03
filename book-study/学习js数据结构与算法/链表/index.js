@@ -1,5 +1,4 @@
-//import {defaultEquals} from "util.js"
-//import {Node} from "nodes.js"
+//链表
 class Node {
     constructor(element){
         this.element=element;
